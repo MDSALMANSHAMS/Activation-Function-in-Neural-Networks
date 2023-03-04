@@ -1,13 +1,7 @@
-# Activation-Function-in-Neural-Network
+# Activation-Function-in-Neural-Networks
 
-
-It is used to determine the output of neural network. 
-
-
-The Activation Functions can be basically divided into 2 types-
-
-A). Linear Activation Function
-B). Non-linear Activation Functions
+It is used to determine the output of neural network. The Activation Functions can be basically divided into 2 types-
+A). Linear Activation Function, B). Non-linear Activation Functions
 
 The Nonlinear Activation Functions are mainly divided on the basis of their range or curves:-
 
